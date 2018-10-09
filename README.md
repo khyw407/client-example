@@ -1,7 +1,7 @@
 # <client-example>
 
 # 1. ClientserverApplication.java
-<img width="543" alt="clientserverapplication" src="https://user-images.githubusercontent.com/37721713/46648822-add7bb00-cbd1-11e8-8e9e-fa18c01db962.PNG">
+<img width="450" alt="clientserverapplication" src="https://user-images.githubusercontent.com/37721713/46648822-add7bb00-cbd1-11e8-8e9e-fa18c01db962.PNG">
 
 
 
@@ -39,7 +39,7 @@
      경우에 사용한다. 이렇게 구현된 메소드가 먼저 실행되고, 이후 main 메소드의 run 메소드가 실행된다.
 
 # 2. ClientController.java
-<img width="614" alt="clientcontroller" src="https://user-images.githubusercontent.com/37721713/46648817-a57f8000-cbd1-11e8-8e70-cf4ccc05bf7c.PNG">
+<img width="450" alt="clientcontroller" src="https://user-images.githubusercontent.com/37721713/46648817-a57f8000-cbd1-11e8-8e70-cf4ccc05bf7c.PNG">
 
 
 *@Autowired
@@ -65,7 +65,7 @@
 
 
 # 3. ClientService.java
-<img width="365" alt="clientservice" src="https://user-images.githubusercontent.com/37721713/46648823-b0d2ab80-cbd1-11e8-84ae-417addfc2746.PNG">
+<img width="450" alt="clientservice" src="https://user-images.githubusercontent.com/37721713/46648823-b0d2ab80-cbd1-11e8-84ae-417addfc2746.PNG">
 
 
 *@Service
@@ -79,7 +79,7 @@
     
 
 # 4. ClientRepository.java
-<img width="467" alt="clientrepository" src="https://user-images.githubusercontent.com/37721713/46648818-a9ab9d80-cbd1-11e8-99de-db171c2075ba.PNG">
+<img width="450" alt="clientrepository" src="https://user-images.githubusercontent.com/37721713/46648818-a9ab9d80-cbd1-11e8-99de-db171c2075ba.PNG">
 
 
 *@RepositoryRestResource
@@ -93,7 +93,7 @@
     
 
 # 5. Client.java
-<img width="292" alt="client" src="https://user-images.githubusercontent.com/37721713/46648815-a31d2600-cbd1-11e8-9271-58e8a174e2e2.PNG">
+<img width="450" alt="client" src="https://user-images.githubusercontent.com/37721713/46648815-a31d2600-cbd1-11e8-9271-58e8a174e2e2.PNG">
 
 
 *@Data
@@ -128,4 +128,4 @@
     
     
 # 6. application.yml
-<img width="134" alt="application" src="https://user-images.githubusercontent.com/37721713/46650406-589ea800-cbd7-11e8-9e55-994f09c2aefc.PNG">
+<img width="450" alt="application" src="https://user-images.githubusercontent.com/37721713/46650406-589ea800-cbd7-11e8-9e55-994f09c2aefc.PNG">
